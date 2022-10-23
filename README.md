@@ -56,3 +56,11 @@ Use any one of the following commands:
     $ npm start
 
     $ yarn start
+
+## Screenshots (Running App)
+
+### Fetched Data and Displaying in frontend
+![Screenshot (211)](https://user-images.githubusercontent.com/81156510/197394353-7d1ca626-1d36-436a-a3d0-5a8264126d3b.png)
+
+### Output
+![Output](https://user-images.githubusercontent.com/81156510/197394206-6bca3ff2-61ad-435d-b57d-5827b9592b53.png)
